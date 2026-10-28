@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello !!<br><br>so little about me, i am an information technology student at KSU,<br>i love programming and experimenting with different and new things.<br><br>my github is learning and journey tracker where i will share my personal and university projects.<br>i will keep on learning and enjoying what i do ;><br><br>
+Hello !!<br><br>so little about me, i am an information technology graduate from KSU,<br>i love programming and experimenting with different and new things.<br><br>my github is learning and journey tracker where i will share my personal projects.<br>i will keep on learning and enjoying what i do ;><br><br>
 
 
 ## 🌐 Socials:
@@ -14,4 +14,4 @@ Hello !!<br><br>so little about me, i am an information technology student at KS
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
